@@ -1,0 +1,11 @@
+{
+  "name": "capacitor-plugin-alarm-test",
+  "version": "0.0.1",
+  "description": "App for testing Alarm plugin for Capacitor",
+  "author": "BazuMax Studio",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

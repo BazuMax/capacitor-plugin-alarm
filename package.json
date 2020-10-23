@@ -56,9 +56,9 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BazuMax/capacitor-plugin-alarm.git"
+    "url": "https://github.com/BazuMax/capacitor-plugin-alarm"
   },
   "bugs": {
-    "url": "https://github.com/BazuMax/capacitor-plugin-alarm.git/issues"
+    "url": "https://github.com/BazuMax/capacitor-plugin-alarm/issues"
   }
 }

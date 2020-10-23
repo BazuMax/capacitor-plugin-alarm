@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Capacitor Alarm Test</string>
+    <string name="title_activity_main">Capacitor Alarm Test</string>
+    <string name="package_name">org.bazumax.plugins.alarm.testapp</string>
+    <string name="custom_url_scheme">org.bazumax.plugins.alarm.testapp</string>
+</resources>

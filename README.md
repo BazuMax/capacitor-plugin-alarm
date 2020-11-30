@@ -1,6 +1,6 @@
-## CAPACITOR ALARM BACKGROUND PLUGIN
+## __*CAPACITOR ALARM BACKGROUND PLUGIN*__
 
-### Usage
+### **Usage**
 
 Yarn
 
@@ -14,7 +14,7 @@ NPM
 npm install @bazumax/capacitor-plugin-alarm
 ```
 
-### Development
+### **Development**
 
 #### Clone & Prepare
 
